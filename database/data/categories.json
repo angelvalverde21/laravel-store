@@ -1,0 +1,8 @@
+[
+	{"id":"1","name":"Ropa Mujeres","slug": "ropa-para-mujeres"},
+	{"id":"2","name":"Ropa Hombres","slug": "ropa-para-hombres"},
+	{"id":"3","name":"Calzado para mujeres","slug": "calzado-para-mujeres"},
+	{"id":"4","name":"Calzado para hombres","slug": "calzado-para-hombres"},
+	{"id":"5","name":"Accesorios","slug": "accesorios"},
+	{"id":"6","name":"Ropa mascotas","slug": "ropa-para-mascotas"}
+]
